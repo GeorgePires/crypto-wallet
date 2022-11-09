@@ -1,24 +1,9 @@
-# README
+# Ruby on Rails 5.x - Do início ao fim!
+![Capa do curso de Ruby on Rails 5.x](https://cdn-images-1.medium.com/max/1600/1*OZCuYAREKtSJHzfl4FYlvQ.jpeg)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## 💻 Projeto
 
-* Ruby version
+Projeto Crypto Wallet.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+---
