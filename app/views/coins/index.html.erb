@@ -14,7 +14,7 @@
       <tr>
         <td><%= coin.description %></td>
         <td><%= coin.acronym %></td>
-        <td><%= image_tag(coin.url_image,  size: "50x50")%></td>
+        <td><%= image_tag(coin.try(:url_image),  size: "40x40") if coin.url_image? %></td>
         <td><%= link_to 'Show', coin %></td>
         <td><%= link_to 'Edit', edit_coin_path(coin) %></td>
         <td><%= link_to 'Destroy', coin, method: :delete, data: { confirm: 'Are you sure?' } %></td>
