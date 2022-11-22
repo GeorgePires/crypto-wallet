@@ -1,5 +1,7 @@
-<h1><%= @welcome %></h1>
-<p>Data: <%= l(Date.today) %></p>
-
-<%= render 'menu' %>
-
+<div class="jumbotron container">
+  <h1 class="display-4"><%= t('welcome') %></h1>
+  <p class="lead"><%= t('messages.welcome')%></p>
+  <hr class="my-4">
+  <p><%= t('messages.menu')%></p>
+  <%= render "menu" %>
+</div>

@@ -4,6 +4,6 @@
 
 ## 💻 Projeto
 
-Projeto Crypto Wallet.
+Módulo 03 - Projeto Crypto Wallet.
 
 ---
