@@ -5,6 +5,7 @@ pt-BR:
     welcome: "Este é o Crypto Wallet, uma app para você cadastrar e acompanhar as suas criptomoedas."
     menu: "Para começar, selecione uma das opções abaixo:"
     confirm: "Tem certeza?"
+    errors: "Por favor, verifique o(s) seguinte(s) campo(s):"
   hello: "Olá Mundo!"
   links:
     edit: "Editar"
